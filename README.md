@@ -1,5 +1,5 @@
 # NESAP_marine_heatwaves
-This is the code repository for our manuscript _(currently under consideration at Nature Communications)_ highlighting the effects of marine heatwaves on food webs and particle export in the Northeast Subarctic Pacific Ocean.
+This is the code repository for [our manuscript](https://doi.org/10.1038/s41467-025-63605-w) highlighting the effects of marine heatwaves on food webs and particle export in the Northeast Subarctic Pacific Ocean.
 
 ## Marine Heatwaves Modulate Food Webs and Carbon Transport Processes
 
@@ -8,7 +8,7 @@ The impact of marine heatwaves (MHWs) on ecosystem functions and services remain
 ### This study integrates multiple data products to paint a picture of ecosystem responses to marine heatwaves. Raw data is available at the links provided here:
 - BGC-Argo data is available here: Argo Global Data Assembly Center (USGODAE; https://usgodae.org/ftp/outgoing/argo/ or https://www.ncei.noaa.gov/products/global-argo-data-repository)
 - Line P Phytoplankton Pigment Data is available here: https://waterproperties.ca/linep
-- DNA metabarcoding data is available on the NCBI SRA under the BioProjects: PRJNA639229 (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA639229/) and PRJNA640752 (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA640752/).
+- DNA metabarcoding data is available on the NCBI SRA under the BioProjects: [PRJNA639229](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA639229/) and [PRJNA640752](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA640752/).
 
 
 ### Specific input files used for this manuscript are linked below:
